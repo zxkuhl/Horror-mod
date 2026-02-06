@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "World Whisperer - Random horror events that make your world feel haunted: whispers, sudden night, floating ghosts, darkness effects.",
+    "name": "World Whisperer Horror",
+    "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "f9e8d7c6-b5a4-3210-dcba-0987654321fe",
+      "version": [1, 0, 0]
+    }
+  ]
+}
